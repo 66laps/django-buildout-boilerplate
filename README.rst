@@ -16,7 +16,7 @@ Getting Started
 
     $ git clone git://github.com/66laps/django-buildout-boilerplate.git
 
-* Customise `buildout.cfg` and `djangorecipe` as necessary:
+* Customise ``setup.py``, ``buildout.cfg`` and ``djangorecipe`` as necessary:
   http://pypi.python.org/pypi/djangorecipe.
 
 * Bootstrap the development environment::
