@@ -12,3 +12,4 @@ src/*.egg-info
 .coverage
 *.swp
 *.egg-info
+bootstrap.py
