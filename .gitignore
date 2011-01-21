@@ -11,3 +11,4 @@ src/*.egg-info
 .DS_Store
 .coverage
 *.swp
+*.egg-info

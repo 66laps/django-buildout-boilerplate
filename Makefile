@@ -14,4 +14,4 @@ development : bin/buildout
 	./bin/buildout
 
 clean :
-	rm -rf bin develop-eggs eggs parts .installed.cfg downloads bootstrap.py
+	rm -rf bin develop-eggs eggs parts .installed.cfg downloads bootstrap.py *.egg-info
